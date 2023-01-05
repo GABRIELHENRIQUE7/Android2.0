@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/* tela de impressora*/
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, p{
+    text-align: center;
+}
+
+a{
+    display: none;
+}
+
+div.video{
+    display: none;
+}
+
